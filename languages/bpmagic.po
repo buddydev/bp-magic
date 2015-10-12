@@ -1,0 +1,2630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Magic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-02 03:27+0530\n"
+"PO-Revision-Date: 2015-09-02 03:27+0530\n"
+"Last-Translator: BuddyDev.com\n"
+"Language-Team: BuddyDev <support@buddydev.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_ex;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /var/www/bp/2.3/dev/wp-content/themes/bp-magic\n"
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:20
+#, php-format
+msgid "%1$s posted on <span>%2$s </span> <span>in %3$s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:21
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:22
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/page.php:15
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/templates/onecolumn-page.php:24
+msgid "Edit this entry"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:30
+msgid "<p class=\"read-more-generated\">Read the rest of this entry &rarr;</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:32
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:33
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/page.php:19
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/templates/onecolumn-page.php:30
+msgid "Pages: "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:37
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:38
+msgid "Tags: "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:38
+msgid "Category: "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:43
+msgid "&larr;"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/single.php:46
+msgid "&rarr;"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/home.php:4
+msgid "Recent Posts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:64
+msgid "Search for:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:65
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:69
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:81
+msgid "Sign in"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:84
+#, php-format
+msgid ""
+"<a href=\"%s\" title=\"Create an account\" class=\"my-account\">Register</a>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:89
+msgid "My Account"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/header.php:92
+msgid "Dashboard"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/search.php:12
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar-left.php:35
+msgid "Log Out"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar-left.php:47
+msgid "Sidebar Nav"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/not-found.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/not-found.php:10
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:42
+#, php-format
+msgid ""
+"Please <a href=\"%s\" title=\"Create an account\">create an account</a> to "
+"get started."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:48
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:43
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:37
+msgid "Username"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:53
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:22
+msgid "Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:61
+msgid "Remember Me"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:66
+msgid "Log In"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/sidebar.php:77
+msgid "Forum Topic Tags"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:17
+#, php-format
+msgid "Viewing posts filed in <span class=\"alttext\">%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:22
+#, php-format
+msgid "Posts tagged %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:26
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:26
+msgid "F, Y"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:28
+#, php-format
+msgid "Archive for year %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:28
+msgid "Y"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/index.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:14
+msgid "Permanent Link to"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:16
+msgid "Featured"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:21
+#, php-format
+msgid "%s posted on <span>%s </span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:44
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/loop.php:45
+msgid "Continue reading "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:123
+msgid "Top Main Menu"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:193
+msgid "Home Page Top Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:195
+msgid "The homepage top widet area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:203
+msgid "Home Page Bottom Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:205
+msgid "The homepage bottom widet area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:217
+msgid "The sidebar widget area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:227
+msgid "The bottom area of userbar in the left sidebar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:235
+msgid "Footer Top Full column Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:237
+msgid "The footer top widet area, expands to the complete footer area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:246
+msgid "Footer Top Widget Area(Column 1)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:248
+msgid "The top footer widget area column 1"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:258
+msgid "Footer Top Widget Area(Column 2)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:260
+msgid "The second footer widget area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:270
+msgid "Footer Top Widget Area(Column 3)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:272
+msgid "The third footer widget area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:282
+msgid "Footer Bottom Full column Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/functions.php:284
+msgid "The footer bottom widet area, expands to the complete footer area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:4
+msgid ""
+"This  is password protected for one post. Enter the password to view more "
+"comments."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:26
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:28
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:30
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:70
+msgid "Your Name *"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:72
+msgid "Email *"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:74
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:79
+#, php-format
+msgid "All the fields marked as %s are required."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:82
+msgid "Please Enter your comment here"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:84
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:85
+msgid "Your email address will not be published."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:86
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:89
+msgid "Leave a Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:90
+#, php-format
+msgid "Write a Reply to %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:91
+msgid "Cancel reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/comments.php:92
+msgid "Post Comment"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/404.php:9
+msgid "Page not found"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/404.php:11
+msgid ""
+"We're sorry, but we can't find the page that you're looking for. Perhaps "
+"searching will help."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/page.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/bbpress.php:21
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/templates/onecolumn-page.php:28
+msgid "<p class=\"read-more-generated\">Read the rest of this page &rarr;</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:263
+msgid "Please enter some content to post."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:278
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:311
+msgid "Please do not leave the comment area blank."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:314
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:323
+msgid "There was an error posting that reply, please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:379
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:415
+msgid "There was a problem when deleting. Please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:478
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:499
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:22
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:44
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:72
+msgid "Remove Favorite"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:480
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:497
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:20
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:43
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:68
+msgid "Favorite"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:578
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:225
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:610
+msgid "Friendship could not be canceled."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:612
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:626
+msgid "Add Friend"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:618
+msgid " Friendship could not be requested."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:620
+msgid "Cancel Friendship Request"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:628
+msgid "Friendship request could not be cancelled."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:631
+msgid "Request Pending"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:651
+msgid "There was a problem accepting that request. Please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:670
+msgid "There was a problem rejecting that request. Please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:697
+msgid "Error joining group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:699
+msgid "Leave Group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:705
+msgid "Error requesting membership"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:707
+msgid "Membership Requested"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:714
+msgid "Error leaving group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:716
+msgid "Join Group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:718
+msgid "Request Membership"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:736
+msgid "There was a problem closing the notice."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:770
+#, php-format
+msgid "Sent %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:787
+msgid "There was a problem sending that reply. Please try again."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:805
+msgid "There was a problem marking messages as unread."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:830
+msgid "There was a problem marking messages as read."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:855
+msgid "There was a problem deleting messages."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/_inc/ajax.php:863
+msgid "Messages deleted."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:8
+msgid "Gallery Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:18
+#, php-format
+msgid "All Galleries <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:21
+#, php-format
+msgid "My Galleries <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:23
+msgid "My Group Galleries"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:31
+msgid "Filter By:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:32
+msgid "All Galleries"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:35
+msgid "Photo Gallery"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:38
+msgid "Audio Gallery"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/directory.php:41
+msgid "Video Gallery"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/gallery-loop.php:30
+#, php-format
+msgid "Created By %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/gallery-loop.php:36
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:33
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:42
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:37
+msgid "View"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/gallery-loop.php:54
+msgid "Sorry, no galleries were found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/groups/single.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/members/single.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/event/single.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/jes_events/single.php:17
+msgid "Edit This gallery"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/groups/single.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/members/single.php:42
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/event/single.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/jes_events/single.php:39
+msgid ""
+"Perhaps! the Gallery does not exist or You don't have adequate permissions "
+"to view them."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/groups/home.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/members/home.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/comment-ext.php:63
+msgid "Edit"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/groups/home.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-loop.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/photo-loop.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-loop.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/media-loop.php:14
+msgid "remove"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:7
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:12
+#, php-format
+msgid "You have <strong>%s</strong> unpublished %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:14
+msgid "Publish Them to activity now"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:14
+msgid "or"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:14
+msgid "Hide This Notice"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:44
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:53
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:76
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:107
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/edit-media.php:34
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/capabilities.php:53
+msgid "Save"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:66
+msgid "Set Cover"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:79
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:113
+msgid "You have not uploaded anything yet, Upload Now."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:80
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:114
+msgid "Upload"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/edit.php:140
+msgid "Upload & Save Cover"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/create-form.php:3
+msgid "Create a"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/create-form.php:5
+msgid "Gallery Title"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/create-form.php:7
+msgid "Description"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/create-form.php:12
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/add-from-web.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/profile.php:55
+msgid "Visibility"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/create-form.php:13
+msgid "Save Gallery"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/activity.php:31
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity.php:29
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/activity-loop.php:41
+msgid "Load More"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/activity.php:42
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity.php:42
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-single.php:32
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/single.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-single.php:32
+msgid ""
+"This is a private media and you don't have adequate permissions to view it."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-single.php:38
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/single.php:31
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-single.php:38
+msgid "Sorry, but we don't have anything here :(."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-loop.php:23
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/photo-loop.php:15
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-loop.php:22
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/media-loop.php:12
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:40
+msgid "comments"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-loop.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/photo-loop.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-loop.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/media-loop.php:14
+msgid "edit"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/video-loop.php:56
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/photo-loop.php:38
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/audio-loop.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/media-loop.php:35
+msgid ":( we don't have anything here."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-upload-form.php:31
+msgid "Upload "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/post-form.php:14
+#, php-format
+msgid "Wanna Say something %s?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/post-form.php:26
+msgid "Comment"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/add-from-web.php:18
+#, php-format
+msgid "Please enter a Url from %s  and click add"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/add-from-web.php:20
+msgid "Add"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/upload-form.php:36
+#, php-format
+msgid ""
+"You can upload any file of type %s. The maximum file size should not exceed "
+"%s ."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/upload-form.php:37
+msgid "Upload & Save"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:15
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:26
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:100
+msgid "Comments"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:20
+msgid "Mark as Favorite"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:32
+msgid "In reply to"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:33
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:50
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:104
+msgid "Post"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/single/media/activity-entry.php:50
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/members/single.php:31
+#, php-format
+msgid ""
+"This is a %s Gallery and You don't have adequate permissions to view them."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/gallery/members/home.php:24
+msgid "delete"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:10
+msgid "Login Here"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:43
+msgid "Sign Up! "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:45
+msgid "Password Lost and Found"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/login.php:45
+msgid "Forgot your password?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/resetpass.php:9
+msgid "Resetting Password!"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/resetpass.php:16
+msgid "Username or E-mail:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/resetpass.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/resetpass.php:28
+msgid "Log in"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogin/resetpass.php:26
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:247
+msgid "Register"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:31
+msgid "&larr; Previous Entries"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:32
+msgid "Next Entries &rarr;"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:94
+msgid "Notifications"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:119
+msgid "No new notifications."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:209
+msgid "Select:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:213
+msgid "Read"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:214
+msgid "Unread"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:215
+msgid "All"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:220
+msgid "Mark as Read"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:221
+msgid "Mark as Unread"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/template.php:225
+msgid "Delete Selected"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:50
+msgid "year"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:50
+msgid "years"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:51
+msgid "month"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:51
+msgid "months"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:52
+msgid "week"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:52
+msgid "weeks"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:53
+msgid "day"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:53
+msgid "days"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:54
+msgid "hour"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:54
+msgid "hours"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:55
+msgid "minute"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:55
+msgid "minutes"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:56
+msgid "second"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:56
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:92
+msgid "seconds"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:69
+msgid "sometime"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:95
+msgid " ago"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:120
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:143
+msgid "Uncategorized"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:156
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:159
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:166
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:179
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:182
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/core.php:189
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:35
+msgid "My Favorites"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:36
+msgid "Accepted"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:37
+msgid "Rejected"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:38
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:39
+msgid "Show all"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/css-js.php:41
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:53
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:108
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:176
+msgid "Close"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/post-ext.php:50
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/lib/comment-ext.php:75
+msgid "your comment is awaiting approval!"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/blogs-loop.php:90
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/create.php:21
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:21
+msgid "Create a Site"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/create.php:21
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:21
+msgid "Site Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/create.php:32
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:33
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:37
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:53
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:36
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:60
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:52
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/blogs.php:16
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/forums.php:17
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups.php:21
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends.php:23
+msgid "Order By:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:57
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:38
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:62
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:54
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/blogs.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/forums.php:19
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups.php:23
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends.php:25
+msgid "Last Active"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:56
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/blogs.php:19
+msgid "Newest"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/blogs/index.php:57
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:60
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:59
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/blogs.php:20
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups.php:26
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends.php:27
+msgid "Alphabetical"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:62
+msgid "<p></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:90
+msgid "BP Magic Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:93
+msgid "BP Magic Theme Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:117
+msgid "Theme Documentation"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:118
+msgid ""
+"<p> Please read the documentation for this theme here <a href=\"http://"
+"buddydev.com/bp-magic/\">BP Magic Docs</a>.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:129
+msgid "General Setting"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:130
+msgid ""
+"<p class=\"description\"><b> general setting section </b> for bp magic.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:137
+msgid "Upload Logo"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:145
+msgid "Favicon Icon"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:146
+msgid ""
+"Browse <b>favicon icon</b>. Please make sure the file is .ico or png or gif."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:151
+msgid "Use Favicon"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:152
+msgid "Please select this to show/hide the favicon."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:154
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:29
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:166
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:233
+msgid "Yes"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:155
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:30
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:167
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:234
+msgid "No"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:162
+msgid "Header Scripts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:163
+msgid "Add header script here, If you want to put some header script."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:169
+msgid "Home Setting"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:170
+msgid "<p class=\"description\">Home page settings.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:178
+msgid "Show Top Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:179
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show top "
+"widget area</b>.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:181
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:192
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:203
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:455
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:467
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:478
+msgid "Show"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:182
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:193
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:204
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:456
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:468
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:479
+msgid "Hide"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:189
+msgid "Show Bottom Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:190
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show bottom "
+"widget area </b>.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:200
+msgid "Show Posts on Home Page"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:201
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:212
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show posts on "
+"home page </b>.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:211
+msgid "Select type of posts to show"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:214
+msgid "Show Recent Posts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:215
+msgid "Show Posts from Specific Category"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:223
+msgid "Select categories to show the posts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:224
+msgid ""
+"<p class=\"description\">select the categories from which posts will be "
+"listed on home page. It only affects if you selected the above option.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:411
+msgid "Design"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:412
+msgid "<p class=\"description\">Tweak your site's design</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:418
+msgid "Site Background"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:419
+msgid ""
+"<p class=\"description\">Upload background image for the site. The uploaded "
+"image is used as background image for the website.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:424
+msgid "Repeat background Image"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:425
+msgid ""
+"<p class=\"description\">How do you want the background image to repeat.</p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:427
+msgid "No Repeat"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:428
+msgid "Repeat Both(horizontally & vertically)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:429
+msgid "Repeat Horizontally "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:430
+msgid "Repeat Vertically "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:437
+msgid "Background Color"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:440
+msgid "#F2F2F2"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:444
+msgid "Footer Setting"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:445
+msgid "<p class=\"description\"><b> footer Setting Section</b></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:452
+msgid "Show Footer Top Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:453
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show footer "
+"top widget area</b></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:464
+msgid "Show Footer Widget Area(3 widget areas for 3 columns)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:465
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show footer "
+"column widget area</b></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:475
+msgid "Show Footer Bottom Widget Area"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:476
+msgid ""
+"<p class=\"description\">select option if you want <b>hide or show footer "
+"bottom widget area</b></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:488
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:489
+msgid "Copyright Text"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:490
+msgid ""
+"<p>Proudly powered by <a href=\"http://WordPress.org\">WordPress</a>, <a "
+"href=\"http://buddypress.org\">BuddyPress</a> & <a href=\"http://buddydev."
+"com/themes/bp-magic/\">BP Magic</a></p>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:531
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:532
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:533
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:535
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:542
+msgid "Theme Information"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/admin.php:549
+msgid "Documentation"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:49
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:51
+msgid "Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:247
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:248
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:681
+msgid "Import / Export"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:274
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:275
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:700
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:782
+msgid "Dev Mode Info"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:330
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:647
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:807
+msgid "Reset to Defaults"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:653
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:655
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:659
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:660
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:662
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:718
+msgid "Import / Export Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:720
+msgid "Import Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:728
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:741
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:751
+msgid "Import"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:751
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:754
+msgid "Export Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/options.php:756
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/font_family_select/field_font_family_select.php:30
+msgid " "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/slider_type_select/field_slider_type_select.php:32
+msgid ""
+"The fonts style provided below are free to use custom fonts from the Font "
+"Style"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/multi_text/field_multi_text.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/multi_text/field_multi_text.php:46
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/admin/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:21
+msgid "Create a Group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:21
+msgid "Groups Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:17
+msgid "Group Name (required)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:43
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:21
+msgid "Group Description (required)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:60
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:63
+msgid "Privacy Options"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:64
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:68
+msgid "This is a public group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:66
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:70
+msgid "Any site member can join this group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:67
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:76
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:71
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:81
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:68
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:72
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:73
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:78
+msgid "This is a private group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:75
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:80
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:77
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:86
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:82
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:92
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:82
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:88
+msgid "This is a hidden group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:84
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:90
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:85
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:91
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:92
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:99
+msgid "Group Invitations"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:94
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:101
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:99
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:106
+msgid "All group members"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:104
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:111
+msgid "Group admins and mods only"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:109
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:116
+msgid "Group admins only"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:115
+msgid "Group Forums"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:117
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:120
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:51
+msgid "Enable discussion forum"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:145
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:133
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:149
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:137
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:153
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:160
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:162
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:157
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:33
+msgid "Avatar to crop"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:165
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:160
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:36
+msgid "Avatar preview"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:168
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:163
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:207
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:242
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/send-invites.php:72
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group. You can send invites any time in the future by selecting the "
+"\"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:264
+msgid "Back to Previous Step"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:271
+msgid "Next Step"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:278
+msgid "Create Group and Continue"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/create.php:285
+msgid "Finish"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/groups-loop.php:47
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/group-header.php:41
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:35
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:61
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:58
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups.php:24
+msgid "Most Members"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/index.php:59
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups.php:25
+msgid "Newly Created"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/members.php:95
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:324
+msgid "This group has no members."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:19
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:23
+msgid "New Topic"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:27
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:16
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:63
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/forums.php:20
+msgid "Most Posts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:40
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:64
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/forums.php:21
+msgid "Unreplied"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:75
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:47
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:104
+msgid "Title:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:78
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:50
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:107
+msgid "Content:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:81
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:53
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:110
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum.php:87
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:133
+msgid "Post Topic"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/send-invites.php:59
+msgid "Send Invites"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:3
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:87
+msgid "RSS Feed"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:3
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:87
+msgid "RSS"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:12
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:16
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:92
+msgid "Show:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:14
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:94
+msgid "Everything"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:15
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:19
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:95
+msgid "Updates"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:41
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:106
+msgid "Forum Topics"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:19
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:42
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:107
+msgid "Forum Replies"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/activity.php:22
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:49
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:114
+msgid "Group Memberships"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:27
+msgid "Notify group members of changes via email"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:36
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:123
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:58
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:74
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/notifications.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:66
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:78
+msgid "Save Changes"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:143
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:145
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:24
+msgid "Delete Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:155
+msgid "Crop Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:183
+msgid "Administrators"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:193
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:232
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:283
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:207
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:243
+msgid "Demote to Member"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:223
+msgid "Moderators"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:242
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:305
+msgid "Promote to Admin"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:257
+msgid "Members"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:293
+msgid "(banned)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:299
+msgid "Unban this member"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:299
+msgid "Remove Ban"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:303
+msgid "Kick and ban this member"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:303
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:304
+msgid "Promote to Mod"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:309
+msgid "Remove this member"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:309
+msgid "Remove from group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:354
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends/requests.php:43
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups/invites.php:29
+msgid "Accept"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:356
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends/requests.php:44
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups/invites.php:30
+msgid "Reject"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:369
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:386
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:389
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/admin.php:394
+msgid "Delete Group"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:10
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/comment.php:38
+msgid "Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:144
+msgid "Post Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:39
+msgid "Topic"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:40
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:25
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:99
+msgid "Posts"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:41
+msgid "Freshness"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:54
+msgid "Permalink"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:61
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:72
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:23
+msgid "Forums Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:40
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:44
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:100
+msgid "Create New Topic:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:113
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:116
+msgid "----"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:134
+msgid "Cancel"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/forums/index.php:145
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/members-loop.php:107
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:20
+msgid "Members Directory"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:32
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:39
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:36
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:49
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/index.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends.php:26
+msgid "Newest Registered"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:33
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:120
+msgid "Friendships"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/activity.php:48
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:113
+msgid "New Groups"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/capabilities.php:41
+msgid "Capabilities"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/capabilities.php:49
+msgid "This user is a spammer."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/profile.php:39
+msgid "Profile Settings"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/delete-account.php:40
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/delete-account.php:66
+msgid "Delete Account"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/delete-account.php:46
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/delete-account.php:50
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/delete-account.php:62
+msgid "I understand the consequences."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/notifications.php:41
+msgid "Email Notification"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/notifications.php:43
+msgid "Send a notification by email when:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:39
+msgid "General Settings"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:47
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:52
+msgid "Account Email"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:56
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:57
+msgid "New Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:60
+msgid "Confirm New Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/settings/general.php:61
+msgid "Repeat New Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/friends/requests.php:75
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/notifications-loop.php:5
+msgid "Notification"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/notifications-loop.php:6
+msgid "Date Received"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/notifications-loop.php:7
+msgid "Actions"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups/invites.php:16
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/notices-loop.php:50
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/messages-loop.php:58
+msgid "Delete Message"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:24
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/comment.php:44
+msgid "Delete"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/notices-loop.php:43
+msgid "Sent:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/notices-loop.php:61
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/messages-loop.php:50
+msgid "View Message"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/messages-loop.php:58
+msgid "[x]"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/messages/messages-loop.php:80
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:12
+msgid "Editing Profile "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:45
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:57
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:98
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:113
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:168
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:180
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:45
+msgid "Change"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/edit.php:49
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:103
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:172
+msgid "Who can see this field?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:8
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/post-form.php:41
+msgid "My Profile"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/members/single/profile/change-avatar.php:55
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:12
+msgid "Account Activated"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:18
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:20
+msgid ""
+"Your account was activated successfully! You can now log in with the "
+"username and password you provided when you signed up."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:25
+msgid "Activate your Account"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:32
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:36
+msgid "Activation Key:"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/activate.php:40
+msgid "Activate"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:18
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:16
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:27
+msgid "Create an Account"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:31
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:39
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:40
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:35
+msgid "Account Details"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:43
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:49
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:54
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:60
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:150
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:159
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:37
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:41
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:47
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:55
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:85
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:93
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:101
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:111
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:122
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:137
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:148
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:217
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:226
+msgid "(required)"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:49
+msgid "Email Address"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:54
+msgid "Choose a Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:60
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:55
+msgid "Confirm Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:75
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:76
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:74
+msgid "Profile Details"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:143
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:144
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:211
+msgid "Blog Details"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:146
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:213
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:150
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:217
+msgid "Blog URL"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:159
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:226
+msgid "Site Title"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:163
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:230
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:192
+msgid "Complete Sign Up"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:203
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:258
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:209
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:264
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register.php:211
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:266
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:23
+#, php-format
+msgid "Are you Ready to join %s ?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:27
+#, php-format
+msgid ""
+"Registering for %s is easy, just fill in the fields below and we'll get a "
+"new account set up for you in no time."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:41
+msgid "Email ID"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:47
+msgid "Choose Password"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/registration/register-1.php:128
+msgid "Clear"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/post-form.php:19
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/post-form.php:21
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/post-form.php:31
+msgid "Post Update"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/post-form.php:38
+msgid "Post in"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:21
+msgid "Site Activity"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:39
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:49
+msgid "The activity of my friends only."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:61
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:71
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:71
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:77
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:77
+msgid "Mentions"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:77
+#, php-format
+msgid "<span>%s new</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/index.php:124
+msgid "New Members"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:37
+msgid "In reply to: "
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/entry.php:60
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/2.3/dev/wp-content/themes/bp-magic/activity/comment.php:28
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""

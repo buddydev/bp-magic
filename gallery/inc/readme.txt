@@ -1,0 +1,2 @@
+If you get issues with mediaelement player. Plase rename the "medielemt" folder to something else and rename the "mediaement_old" to mediaelement" That will make it work.
+The new player is improved but is not stable causing a few issues. 

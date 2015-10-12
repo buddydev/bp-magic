@@ -1,0 +1,36 @@
+#post-password {
+   position: relative;
+    top: 10px;
+}
+#nav li {
+    display: inline-block;
+    float: left;
+    margin-left: 20px !important;
+}
+
+#nav li a {
+    background: url("../images/top-nav-bg.png") repeat scroll 0 0 transparent;
+    color: #fff;
+    display: block;
+    font-family: 'Helvetica Neue',helvetica,sans-serif;
+    padding: 5px 12px;
+    text-align: left;
+}
+
+a.reject:before, a.remove:before, a.pending_friend:before, a.leave-group:before, .btn-delete:before {
+    content: "";
+    width: 0px;	
+}
+
+#group-dir-search #groups_search_submit { 
+	position: relative;
+	top: -5px;
+}
+#sidebar-left .vanity-logo-bottom {
+    padding-bottom: 20px;
+}
+
+#content .padder #whats-new-options #aw-whats-new-submit[type="submit"] {
+    background: url("../images/bg-activity-submit.gif") no-repeat right 0px #fff;
+	
+}

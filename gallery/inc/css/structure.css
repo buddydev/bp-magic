@@ -1,0 +1,369 @@
+/**
+Gallery CSS
+**/
+
+/*********************************************************************************/
+/********** for SWF Uploader,Thanks to Webdeveloper Plus site for the css of this section***************/
+.swfupload {
+    height: 32px;
+    margin: 0 0 0 25px;
+    width: 142px;
+}
+#swfupload-control p{ margin:10px 5px; font-size:0.9em; }
+#log{ margin:0; padding:0; width:350px;}
+#log li{ list-style-position:inside; margin:2px; border:1px solid #ccc; padding:10px; font-size:12px; 
+	font-family:Arial, Helvetica, sans-serif; color:#333; background:#fff; position:relative;}
+#log li .progressbar{ border:1px solid #333; height:5px; background:#fff; }
+#log li .progress{ background:#999; width:0%; height:5px; }
+#log li p{ margin:0; line-height:18px; }
+#log li.success{ border:1px solid #339933; background:#ccf9b9; }
+#log li span.cancel{ position:absolute; top:5px; right:5px; width:20px; height:20px; 
+	background:url(../swfupload/cancel.png) no-repeat; cursor:pointer; }
+/*
+----------Gallery Css--------------------------------/
+/*
+deprecating the .media
+.sing-media to .single-media
+*/
+/*
+----------------- The media/gallery Thumb Box------------------------------*/
+/* we will use bp-gallery &media for the single gallery and single media*/
+
+div.bp-gallery,  div.bp-media {
+	float:left;
+	margin:2px;
+	padding:5px;
+	text-align:center;
+	width:222px;
+	height:230px;
+	border:1px solid #CCCCCC;
+}
+div.bp-media {
+	width:222px;
+	height:280px;
+	border:1px solid #CCCCCC;
+}
+div.bp-media .media-description{
+    max-height:40px;
+    overflow:hidden;
+}
+/*for audio video overwrite width*/
+div.media_video, div.media_audio{
+	 height: auto;
+         width: 335px;
+}	
+
+div.media_audio div.media-content{
+	height:auto;
+	/*min-height:140px;*//** over riding the default*/
+}
+
+div.bp-gallery h3.gallery-title,.bp-media h3{
+	text-align:center;
+	overflow:hidden;/*** Hide the long texts*/
+}
+div.bp-gallery h3.gallery-title a{
+	color:#1F1F1F;
+	text-decoration:none;
+}
+div.bp-gallery .gallery-cover a,div.bp-gallery .gallery-cover a img{overflow:hidden;display:block;max-height:220px;margin:0 auto;}
+div.bp-gallery .gallery-actions,form .gallery-inline-actions {
+
+}
+div.bp-gallery .gallery-actions a,form .gallery-inline-actions a{
+	text-decoration:none;
+	padding:5px;
+	color:red;
+}
+div.bp-gallery .gallery-actions a.upload,form .gallery-inline-actions a.save,.gallery-actions a.add-web{
+	color:#82AE7A/*#A7E29F;*/
+}
+div.bp-gallery .gallery-actions a.organize{color:#FEC14A;}
+
+div.bp-gallery .gallery-actions a.delete,form .gallery-inline-actions a.cancel{color:#F2624E;}
+div.gallery-actions a{margin:0px 5px;}
+div.edit-delete{
+}
+
+div.edit-delete a{
+	display:inline;
+	padding:0 5px;
+	text-decoration:none;
+}
+div.edit-delete a.delete{color:#F2624E;}
+div.edit-delete a.edit{color:red;}
+/*gallery create button*/
+#add_new_gallery_link{
+	border:2px;
+	display:block;
+	text-indent:-999em;
+	background:url(../images/creategallery_btn.gif) no-repeat;
+	height:32px;
+}
+
+#gallery_create_form{border:2px solid #ccc;padding:10px;}
+#gallery_create_form p{margin:0;padding:0;text-align:left;}
+#gallery_create_form span.gallery-label{}
+#gallery_create_form #gallery_type{}
+#gallery_create_form #gallery_status{margin-top:5px;}
+div.bp-gallery p input#gallery_title{
+	background:#fff;
+	padding:5px;
+	text-align:center;
+}
+#gallery_save{
+	font-size:16px;
+	font-weight:bold;
+}
+/*media***/
+div.media-content,div.gallery-content{
+	/*height:260px;*/
+	/*min-height:260px;*/
+	padding:5px;
+}	
+.medias{width:inherit;}
+.single-media{width:inherit;
+	margin-top:13px;}	
+
+
+/******** Single Gallery editing***/
+/*for single gallery admin page*/
+#gallery-organize{
+	border:2px solid #CCCCCC;
+	margin-top:-7px;
+	padding:5px;
+	text-align:left;
+}
+/* fix for media element video player*/
+#gallery-organize .mejs-container,#gallery-organize .mep-container{
+    margin:0;
+}
+/*** tabbed nav***/
+#gallery-header{margin:0;padding:0;margin-bottom:10px;}
+#gallery-header a{
+	background:#EAEAEA none repeat scroll 0 0;
+	border:1px solid #DDDDDD;
+	color:#555555;
+	display:inline;
+	padding:5px 15px;
+	text-decoration:none;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+}
+/*hilight current action tab*/
+#gallery-header a.current{color:#000;font-weight:bold;}
+/** Media edit delete comments section**/
+
+/** gallery drop down list*/
+#galleries optgroup option {padding-left:10px;}
+#galleries-list {margin-top:5px;}
+/******** Gallery edit page********/
+
+div.edit-gallery .gallery-cover,.media-cover{float:left;width:215px;display:block;overflow:hidden;}
+div.edit-gallery .edit-info,.galleries .edit-media,div#gallery-organize .edit-info{
+	float:left;
+	width:215px;
+	padding:5px;
+	margin-left:20px;
+	display:inline;
+}
+
+#from-my-comuter,#gallery-form-div,#from-remote-url{float:left;width:50%;}
+#gallery_web_url{width:250px;}
+#update_media_upload,#gallery-update-div{
+	float:left;
+	width:45%;
+	margin-left:10px;
+	display:inline;
+}
+#update_media_upload .media{height: 200px;width:250px;overflow:hidden;}
+#update_media_upload .media img,#update_media_upload .media h3{text-align:center;}
+
+
+#medias .activity-content,#medias .activity-comments{margin-left:0;}
+.single-media img{
+	display:block;
+	margin:0 auto 40px;
+}
+
+
+.edit-media .edit-info input[type='text'],.edit-gallery .edit-info input[type='text'] ,.edit-media .edit-info textarea,.edit-gallery .edit-info textarea{
+	background:#FFFFFF none repeat scroll 0 0;
+	border:1px inset #CCCCCC;
+	margin-bottom:10px;
+	padding:8px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px; /* future proofing */
+	-khtml-border-radius: 3px; /* for old Konqueror browsers */
+}
+.edit-media,.edit-gallery{height:160px;}
+.reorder-media{
+	width:150px;
+	height:100px;
+	border:2px solid #ccc;
+	padding:5px;
+	float:left;
+	overflow:hidden;
+	margin:5px;
+        cursor:move;
+}
+
+#gallery-notification{
+	background:none repeat scroll 0 0 #FFF9DB;
+	border-bottom:1px solid #FFE8C4;
+	border-right:1px solid #FFE8C4;
+	color:#FFA200;
+}
+.guploading{
+	height:28px;
+	width:28px;
+	background:url(../images/loading.gif) no-repeat;}
+/** for General activity streams******/
+div.activity-inner p .media-linked img{
+	display:block;
+	float:left;
+	padding:5px;
+	border:1px solid #ccc;
+	max-height:100px;
+	max-width:150px;
+	margin:2px;
+}
+.activity-content .media{float:none;}
+.activity-content a.video{
+	width:218px;
+	height:130px;
+}
+/* No. of unpublished media available comment*/
+.bp-gallery-notice {
+margin:5px 10px 15px 5px;
+color:#000;
+}
+.bp-gallery-notice a{
+ -moz-border-radius: 3px 3px 3px 3px;
+    background: url("../images/white-grad.png") repeat-x scroll left top transparent;
+    border: 1px solid #DDDDDD;
+    color:#000;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 3px 10px;
+	font-weight:bold;
+    text-decoration: none;
+    vertical-align: bottom;
+}
+.bp-gallery a.gallery-hide-unpublished{
+
+}
+.bp-gallery a.gallery-unpublished-publish{
+
+}
+/*** Gallery Navigation**/
+.gnav{margin:5px 0 15px;}
+.gnav a{
+	background:#FFF9DB none repeat scroll 0 0;
+	border-bottom:1px solid #FFE8C4;
+	border-right:1px solid #FFE8C4;
+	color:#FFA200;
+	display:inline-block;
+	font-size:14px;
+	font-weight:normal;
+	margin-top:6px;
+	padding:1px 8px;
+	text-decoration:none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px; /* future proofing */
+	-khtml-border-radius: 3px; /* for old Konqueror browsers */
+	margin-right:4px;
+	margin-left:4px;
+}
+
+/*icons to specify the type of gallery*/
+div.bp_gallery_type {height:12px;text-indent:-9999em;float:right;}
+div.type_icon_video {background:url(../images/media-button-video.gif) no-repeat;;width:13px;}
+div.type_icon_audio {background:url(../images/media-button-music.gif) no-repeat;;width:12px;}
+div.type_icon_photo {background:url(../images/media-button-image.gif) no-repeat;;width:14px;}
+/** Prev next*/
+span.prev,span.next{
+	background:#EBF7FF none repeat scroll 0 0;
+	border-bottom:1px solid #A1DCFA;
+	border-right:1px solid #A1DCFA;
+	color:#059AE7;
+	margin-right:3px;
+	padding:3px 8px;
+	text-decoration:none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px; /* future proofing */
+	-khtml-border-radius: 3px; /* for old Konqueror browsers */
+	text-decoration: none;
+	}
+span.next{float:right;}
+
+/** for Gallery Directory**/
+.item-avatar img{
+	float:left;
+	margin:0 10px 10px 0;
+	border:2px solid #EEEEEE;
+}
+
+/** Bigger Buttons**/
+#galleries form input[type='submit']{
+	font-size:16px;
+	font-weight:bold;
+	margin:5px;
+}
+
+/*********************** Shortcodes*****************************/
+/*** for shortcodes**/
+.post .entry .bp-gallery-embeded,.post .bp-gallery-embeded-media .media{
+	width:160px;
+	padding:5px;
+	float:left;
+	margin:5px;
+
+}
+.post .entry .bp-gallery-embeded .gallery-cover{
+	height:220px;
+}
+.post .bp-media,.post .bp-gallery{
+    height:185px;/*override for post*/
+}
+/*for media element player*/
+.mejs-container,.mep-container{margin:0 auto;}
+.mejs-container .mejs-controls .mejs-time,.mep-container .mep-controls .mep-time{width:20px !important;}
+.single-media object{margin:0 auto;display:block;}
+.single-media iframe{margin:0 auto;display:block;}
+#gallery-organize #gallery-sortable .mejs-overlay-button,#gallery-organize #gallery-sortable .mep-overlay-button{ top: 30%;}
+/*fixes for media element.js player on edit*/
+.bp-media .edit-media div.mejs-controls{display:none;}
+.activity-inner .mejs-container, .activity-inner .mep-container{
+
+margin:0 5px;
+float:left;
+
+}
+.activity-inner audio{
+    width:300px;
+    
+} 
+
+.activity-inner .bp-gallery-audio{
+float:left;
+min-width: 310px;
+_width:310px;
+}
+#gallery_upload_buttons_for_activity{
+    margin-left: 54px;
+    padding-left: 22px
+}
+#whats-new-form #gallery_media_upload_form{
+    margin-left: 54px;
+    padding-left: 22px
+}
+.single-media #whats-new-options{
+    overflow: visible;
+}

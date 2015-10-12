@@ -1,0 +1,13 @@
+
+#group-dir-search #groups_search_submit { 
+	margin-top: -6px; 
+	padding: 3px 10px 4px;
+}
+
+#sidebar-left .vanity-logo-bottom {
+    padding-bottom: 40px;
+}
+#content .padder #whats-new-options #aw-whats-new-submit[type="submit"] {
+    background: url("../images/bg-activity-submit.gif") no-repeat right 0px #fff;
+	
+}
