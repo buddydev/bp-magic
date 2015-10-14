@@ -8,4 +8,4 @@ If you want to contribute to the future enhancement of this theme, please fork t
 Create an issue and submit the pull requests. We appreciate all the contributions.
 
 #Demo & Downloads
-Please visit http://buddydev.com/themes/bp-magic/ for the download and demo link. You can also see our new release post here http://buddydev.com/buddypress/bp-magic-theme-for-buddypress-is-freely-available-now/
+Please visit http://buddydev.com/themes/bp-magic/ for the download and demo link. You can also see our new release post here http://buddydev.com/buddypress-themes/bp-magic-theme-for-buddypress-is-freely-available-now/
