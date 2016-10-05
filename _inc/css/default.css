@@ -4238,7 +4238,21 @@ input[type=password]:focus{
     float:none;
 }
 
+/**Group setting page privacy option **/
 
+#group-settings-form div.group-privacy label ul{
+    padding-left: 10px;
+    list-style-type: square;
+}
+#group-settings-form div.group-privacy label ul li{
+    margin-left: 25px;
+}
+#group-settings-form div.radio label {
+    width: auto;
+    text-align: left;
+    display: block;
+    float:none;
+}
 /***Settings form*/
 table.notification-settings {
 	margin-bottom: 20px;
