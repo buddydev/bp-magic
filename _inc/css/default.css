@@ -2278,7 +2278,7 @@ Ordered List style adapted from
 .item-list{
     
 }
-.item-list li{ 
+.item-list li{
 	background: #fff;
         margin-bottom: 10px;
         padding:10px;
@@ -2286,7 +2286,9 @@ Ordered List style adapted from
 	border-bottom:1px solid #ccc;
         position: relative;
 }
-
+#invite-list.item-list li {
+    padding: 1px;
+}
 .item-list .item-avatar { 
 	width:50px;
 	float: left;
@@ -4344,3 +4346,4 @@ body.links div#item-header h2 a:hover{
 #whats-new-avatar img.avatar{
     display:none;
 }
+
