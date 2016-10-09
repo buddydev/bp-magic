@@ -18,10 +18,10 @@
  *
  *
  */
-if ( !class_exists( 'ReduxFramework' ) && file_exists( dirname( __FILE__ ) . '/ReduxFramework/ReduxCore/framework.php' ) ) {
-    require_once( dirname( __FILE__ ) . '/ReduxFramework/ReduxCore/framework.php' );
+if ( !class_exists( 'ReduxFramework' ) && file_exists( dirname( __FILE__ ) . '/redux/ReduxCore/framework.php' ) ) {
+    require_once( dirname( __FILE__ ) . '/redux/ReduxCore/framework.php' );
 }
-if ( !isset( $redux_demo ) && file_exists( dirname( __FILE__ ) . '/ReduxFramework/bp-magic-framework-settings/bp-magic-framework-settings-config.php' ) ) {
-    require_once( dirname( __FILE__ ) . '/ReduxFramework/bp-magic-framework-settings/bp-magic-framework-settings-config.php' );
+if ( !isset( $redux_demo ) && file_exists( dirname( __FILE__ ) . '/redux/bp-magic-framework-settings/bp-magic-framework-settings-config.php' ) ) {
+    require_once( dirname( __FILE__ ) . '/redux/bp-magic-framework-settings/bp-magic-framework-settings-config.php' );
 }
 
