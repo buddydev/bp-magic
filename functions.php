@@ -422,10 +422,21 @@ function bpmagic_get_option( $option_name ) {
 		'show_footer_bottom_widget_area'	=> 1,
 		'show_footer_3col_widget_area'		=> 1
 	);
-	
-	$settings = get_option( 'bp-magic', array() ); //should we fallback to bp_get_otpion ? or get_site_option
+
+	$settings = get_option( 'bp-magic', $default ); //should we fallback to bp_get_otpion ? or get_site_option
+
+	$image_array = array(
+		'logo_src',
+		'favicon_src',
+		'site_background_image'
+	);
 
 	if ( isset( $settings[ $option_name ] ) ) {
+
+		if ( in_array( $option_name, $image_array )  ) {
+			return $settings[ $option_name ]['url'];
+		}
+
 		return $settings[ $option_name ];
 	}
 
