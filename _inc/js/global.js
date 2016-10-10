@@ -318,7 +318,8 @@ jq(document).ready( function() {
                         li.prepend( response.substr( 2, response.length ) );
                         li.children('div#message').hide().fadeIn(300);
                     } else {
-                        li.slideUp(300);
+                       //li.slideUp(300);
+						li.remove();
                     }
                 });
 
@@ -549,8 +550,8 @@ jq(document).ready( function() {
 						if ( !jq(this).is(':hidden') )
 							child_count++;
 					});
-					comment_li.fadeOut(200);
-
+					//comment_li.fadeOut(200);
+					jq( 'li#acomment-'+ comment_id ).remove();
 					/* Decrease the "Reply (X)" button count */
 					var count_span = jq('li#' + comment_li.parents('ul#activity-stream > li').attr('id') + ' a.acomment-reply span');
 					var new_count = count_span.html() - ( 1 + child_count );
