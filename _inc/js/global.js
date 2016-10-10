@@ -318,7 +318,6 @@ jq(document).ready( function() {
                         li.prepend( response.substr( 2, response.length ) );
                         li.children('div#message').hide().fadeIn(300);
                     } else {
-                       //li.slideUp(300);
 						li.remove();
                     }
                 });

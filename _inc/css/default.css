@@ -885,8 +885,8 @@ Search widget
    
    
 }
-#sidebar .widget_search input[type="text"]  { 
-    padding: 10px 5px; 
+#sidebar .widget_search input[type="text"]  {
+    padding: 10px 5px;
     width: 170px;
 }
 #sidebar .widget_search input{
@@ -4006,20 +4006,16 @@ button::-moz-focus-inner {
 
 input[type=text],
 input[type=password]{
- border: 1px solid #ccc;
- padding: 6px 5px;
- 
-    
+    border: 1px solid #ccc;
+    padding: 6px 5px;
+    width: 95%;
 }
 input[type=text]:hover,
 input[type=password]:hover{
- 
-    
 }
 input[type=text]:focus,
 input[type=password]:focus{
- 
-    
+
 }
 .square-input{
     border-radius:0;
@@ -4028,7 +4024,6 @@ input[type=password]:focus{
 .round-input{
    border-radius:15px; 
 }
-
 
 /*profile edit
 */
@@ -4163,14 +4158,11 @@ input[type=password]:focus{
     overflow: hidden;
     width: 65%; 
 }
-.standard-form  input[type=text],
-.standard-form  textarea{
+.standard-form > input[type=text], input[type=password], textarea{
     border: 1px inset #ccc;
     border-radius: 3px 3px 3px 3px;
     color: #888888;
-    padding: 6px;
-    width: 97%;
-
+    padding: 5px;
 }
 
 .standard-form  .input label,
