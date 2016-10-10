@@ -100,6 +100,7 @@ Redux::setSection( $opt_name, array(
 			'title'   => __( 'Upload Logo', 'bp-magic' ),
 			'desc'    => '',
 			'default' => '',
+			'mode'    => 'image',
 		),
 		array(
 			'id'      => 'favicon_src',
@@ -107,6 +108,7 @@ Redux::setSection( $opt_name, array(
 			'title'   => __( 'Favicon Icon', 'bp-magic' ),
 			'desc'    => '',
 			'default' => __( 'Browse <b>favicon icon</b>. Please make sure the file is .ico or png or gif.', 'bp-magic' ),
+			'mode'    => 'image',
 		),
 		array(
 			'id'      => 'use_favicon',
@@ -205,6 +207,7 @@ Redux::setSection( $opt_name, array(
 			'title'   => __( 'Site Background', 'bp-magic' ),
 			'desc'    => __( '<p class="description">Upload background image for the site. The uploaded image is used as background image for the website.</p>', 'bp-magic' ),
 			'default' => '',
+			'mode'    => 'image',
 		),
 		array(
 			'id'      => 'site_background_repeat',
