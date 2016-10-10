@@ -662,15 +662,12 @@ body.not-logged #sidebar-left .widget:first-child a:hover{
     float: left;
     width: 210px;
     padding-bottom: 104px;
-     
 }
 .bp-user #sidebar{
     margin-top: 2px;
 }
 #sidebar .padder{
-  
 }
-
 #sidebar .widget:last-child{
     margin-bottom: 0;
 }
@@ -809,7 +806,12 @@ body.not-logged #sidebar-left .widget:first-child a:hover{
     color:#fff;
     border:0px;	
     border-radius:0px;
-    box-shadow:none;	    
+    box-shadow:none;
+    line-height: normal;
+    height: 32px;
+}
+#sidebar-wp-submit:hover {
+    background-position: right -38px;
 }
 
 #sidebar .widget .item-list .item{
@@ -855,7 +857,10 @@ h3.widgettitle {
     padding:7px 5px;
     height:auto;
     color:#644f10;
-   }
+}
+.widgettitle:empty {
+    display: none;
+}
 div.widget:nth-of-type(odd) h3.widgettitle{
     background: #ffcc33;
 }
@@ -2942,16 +2947,15 @@ form#whats-new-form #whats-new-submit {
     box-shadow: none;
     text-align: left;
     color: #fff;
-    padding: 0 0 10px 5px;
+    display: block;
     background:url("../images/bg-activity-submit.gif") no-repeat right 0px;
-    height:33px;
-	line-height: 33px;
+    height:32px;
     width:108px;
     border:none; 
     opacity:1;
 }
-#aw-whats-new-submit { 
-
+#aw-whats-new-submit:hover {
+    background-position: right -38px;
 }
 #whats-new-post-in-box{
   float:right;  
@@ -4003,12 +4007,10 @@ button::-moz-focus-inner {
 #groups-directory-form .button:hover { 
 	color: #24A692;
 }
-
 input[type=text],
 input[type=password]{
     border: 1px solid #ccc;
     padding: 6px 5px;
-    width: 95%;
 }
 input[type=text]:hover,
 input[type=password]:hover{
@@ -4163,6 +4165,7 @@ input[type=password]:focus{
     border-radius: 3px 3px 3px 3px;
     color: #888888;
     padding: 5px;
+    width: 95%;
 }
 
 .standard-form  .input label,
