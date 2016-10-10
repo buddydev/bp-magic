@@ -103,25 +103,6 @@ Redux::setSection( $opt_name, array(
 			'mode'    => 'image',
 		),
 		array(
-			'id'      => 'favicon_src',
-			'type'    => 'media',
-			'title'   => __( 'Favicon Icon', 'bp-magic' ),
-			'desc'    => '',
-			'default' => __( 'Browse <b>favicon icon</b>. Please make sure the file is .ico or png or gif.', 'bp-magic' ),
-			'mode'    => 'image',
-		),
-		array(
-			'id'      => 'use_favicon',
-			'type'    => 'select',
-			'title'   => __( 'Use Favicon', 'bp-magic' ),
-			'desc'    => __( 'Please select this to show/hide the favicon.', 'bp-magic' ),
-			'options' => array(
-				'1' => __( 'Yes', 'bp-magic' ),
-				'0' => __( 'No', 'bp-magic' )
-			),
-			'default' => '1'
-		),
-		array(
 			'id'       => 'header_scripts',
 			'type'     => 'textarea',
 			'title'    => __( 'Header Scripts', 'bp-magic' ),
