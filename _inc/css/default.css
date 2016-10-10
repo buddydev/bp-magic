@@ -2990,7 +2990,6 @@ form#whats-new-form #whats-new-options select {
     background: transparent;   
     border-bottom: none;
     border-radius: 0 0 0 0;
-    margin-bottom: 20px;
     padding: 0;
 }
 .activity-list > li:first-child {
@@ -3155,7 +3154,7 @@ li .activity-inreplyto a.view:hover{
 }
 
 .activity-list li.mini .activity-avatar{
-   
+
 }
 .activity-list li.mini .activity-avatar img.avatar,
 .activity-list li.mini .activity-avatar img.FB_profile_pic {
@@ -3301,12 +3300,15 @@ a.activity-time-since:hover {
 }
 
 div.activity-comments {
-    margin: 0 0 0 70px;
+    margin: 0 0 0 75px;
     overflow: hidden; /* IE fix */
     position: relative;
     width: auto;
     clear: both;
     display: none;
+}
+li.mini div.activity-comments{
+    margin-left: 55px;
 }
 div.activity-now-commenting{
     display:block;
@@ -3407,12 +3409,12 @@ div.activity-comments form.ac-form {
     border: 1px solid #DDDDDD;
     box-shadow: 0 0 5px #E1E1E1;
     display: none;
-    margin: 0 0 15px 33px;
+    margin: 10px 0 15px 45px;
     padding: 8px;
 }
 div.activity-comments li form.ac-form {
     clear: both;
-    
+
 }
 div.activity-comments form.root {
     margin-left: 0;
