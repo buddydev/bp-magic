@@ -133,6 +133,10 @@ button{
     border-radius: 5px 5px 5px 5px;
        padding: 10px;
     }
+
+.bp-screen-reader-text {
+    display: none !important;
+}
 /*--------------------------------------------------------------
 1.2 - Non-structural
 --------------------------------------------------------------*/
@@ -4131,6 +4135,7 @@ input[type=password]:focus{
      display: block;
      margin: 15px 0 5px;
 }
+
 /**legend used on registration privacy*/
 .standard-form  .editfield label,
 .standard-form .editfield .label,

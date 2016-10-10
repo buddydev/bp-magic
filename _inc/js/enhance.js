@@ -7,7 +7,7 @@ jQuery( document ).ready( function () {
 	var jq = jQuery;
 
 	/**** Page Load Actions *******************************************************/
-	jq( "#container select, :radio,:checkbox,:file" ).uniform( {
+	jq( "#container select, :radio,:checkbox" ).uniform( {
 		selectClass: 'uni-selector',
 		radioClass: 'uni-radio',
 		checkboxClass: 'uni-checker',
