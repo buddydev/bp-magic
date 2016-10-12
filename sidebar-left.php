@@ -1,24 +1,13 @@
 <div id="sidebar-left">
     <div id="logo">
-		<?php
-			$logo = bpmagic_get_option( 'logo_src' );
-			$site_name = get_bloginfo( 'name' );
-			$site_desc = get_bloginfo( 'description' );
-		?>
 
-		<?php if ( $logo ): ?>
-			<a href="<?php echo site_url( '/' ); ?>" title="<?php echo $site_name; ?>">
-				<img src="<?php echo $logo; ?>" alt="<?php echo $site_name; ?>" />
-			</a>      
-		<?php else: ?>
-			<hgroup>
-				<h1><a href="<?php echo site_url( '/' ); ?>" title="<?php echo $site_name; ?>"><?php echo $site_name; ?></a></h1>
-				<?php if ( empty( $site_desc ) ): ?>
-					<h2><?php echo $site_description; ?></h2>
-				<?php endif; ?>    
-
-			</hgroup>   
-		<?php endif; ?>    
+		<?php if ( function_exists( 'has_custom_logo' ) && has_custom_logo() ): ?>
+			<?php the_custom_logo(); ?>
+		<?php else : ?>
+			<h1 class="site-title">
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
+			</h1>
+		<?php endif; ?>
 
     </div>
 	
