@@ -65,6 +65,12 @@ a{
     text-decoration: none;
     color:#4588BE;
 }
+strong {
+    font-weight: bold;
+}
+em{
+    font-style: italic;
+}
 /*--------------------------------------------------------------
 1.1 - Generic Classes
 --------------------------------------------------------------*/
