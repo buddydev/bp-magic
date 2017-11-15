@@ -414,7 +414,7 @@ BPMagic_Theme_Helper::get_instance(); //instantiate the helper which will setup 
  */
 function bpmagic_get_option( $option_name ) {
 
-	$default = array(
+	$default_settings = array(
 		'show_home_top_widget_area'			=> 0,
 		'show_home_bottom_widget_area'		=> 0,
 		'show_posts_on_home'				=> 1,
@@ -424,11 +424,9 @@ function bpmagic_get_option( $option_name ) {
 		'show_footer_3col_widget_area'		=> 1
 	);
 
-	$settings = get_theme_mod( $option_name ); //should we fallback to bp_get_otpion ? or get_site_option
+	$default = isset( $default_settings[ $option_name ] ) ? $default_settings[ $option_name ] : null;
 
-	if ( isset( $settings ) ) {
-		return $settings;
-	}
+	$settings = get_theme_mod( $option_name, $default ); //should we fallback to bp_get_otpion ? or get_site_option
 
-	return false;
+	return $settings;
 }
