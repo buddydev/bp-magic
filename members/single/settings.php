@@ -21,18 +21,26 @@
 
 <?php
 
-if ( bp_is_current_action( 'notifications' ) ) :
-	 locate_template( array( 'members/single/settings/notifications.php' ), true );
-
-elseif ( bp_is_current_action( 'delete-account' ) ) :
-	 locate_template( array( 'members/single/settings/delete-account.php' ), true );
-
-elseif ( bp_is_current_action( 'general' ) ) :
-	locate_template( array( 'members/single/settings/general.php' ), true );
-
-else :
-	locate_template( array( 'members/single/plugins.php' ), true );
-
-endif;
-
-?>
+switch ( bp_current_action() ):
+	case 'notifications':
+		bp_get_template_part( 'members/single/settings/notifications' );
+		break;
+	case 'capabilities':
+		bp_get_template_part( 'members/single/settings/capabilities' );
+		break;
+	case 'delete-account':
+		bp_get_template_part( 'members/single/settings/delete-account' );
+		break;
+	case 'general':
+		bp_get_template_part( 'members/single/settings/general' );
+		break;
+	case 'profile':
+		bp_get_template_part( 'members/single/settings/profile' );
+		break;
+	case 'data':
+		bp_get_template_part( 'members/single/settings/data' );
+		break;
+	default:
+		bp_get_template_part( 'members/single/plugins' );
+		break;
+endswitch;
